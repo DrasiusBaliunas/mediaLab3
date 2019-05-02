@@ -43,4 +43,6 @@ Proxy http to https:
   
   
 #  Done:
-  - Nothing so far.
+  - Marker made with: https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples/generator.html
+  - Added DB_LD3.patt marker
+  - Tested on: Google Chrome - Version 73.0.3683.103 | Microsoft Edge 42.17134.1.0
